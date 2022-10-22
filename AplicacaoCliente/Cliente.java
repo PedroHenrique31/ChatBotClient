@@ -5,6 +5,12 @@ import java.io.PrintStream;
 import java.net.Socket;
 import java.util.Scanner;
 
+/**
+                Autores
+        Pedro Henrique Carneiro de Araújo 22108287
+        
+ */
+
 public class Cliente  {
 
 	public static void main(String[] args) {
