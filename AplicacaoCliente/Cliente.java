@@ -33,6 +33,7 @@ public class Cliente  {
 		
 		System.out.println("Digite uma palavra para mandarmos no servidor");
 		textoEnviar=leitorTeclado.nextLine();
+		//textoEnviar="Frase teste";
 		mensagemEnviar.println(textoEnviar);
 		
 		
